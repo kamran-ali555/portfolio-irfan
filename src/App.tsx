@@ -62,7 +62,7 @@ function App() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <a href="#hero" className="text-2xl font-bold text-indigo-600 flex items-center">
             <span className="text-3xl mr-2">✦</span>
-            <span>Irfan Ali Shah</span>
+            <span>Irfan Hussain Shah</span>
           </a>
           
           {/* Desktop Navigation */}
@@ -129,7 +129,7 @@ function App() {
             <div>
               <h3 className="text-xl font-bold mb-4 flex items-center">
                 <span className="text-2xl mr-2">✦</span>
-                <span>Irfan Ali Shah</span>
+                <span>Irfan Hussain Shah</span>
               </h3>
               <p className="text-gray-400 mb-4">
                 Creating meaningful designs that inspire and connect with your audience.
@@ -182,7 +182,7 @@ function App() {
               <ul className="space-y-3">
                 <li className="flex items-start">
                   <Mail size={18} className="mr-2 mt-1 flex-shrink-0" />
-                  <span className="text-gray-400">irfanalishah@gmail.com</span>
+                  <span className="text-gray-400">irfanhussainshah@gmail.com</span>
                 </li>
                 <li className="flex items-start">
                   <Phone size={18} className="mr-2 mt-1 flex-shrink-0" />
@@ -198,7 +198,7 @@ function App() {
           
           <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} irfanalishah. All rights reserved.
+              © {new Date().getFullYear()} irfanhussainshah. All rights reserved.
             </p>
             <div className="mt-4 md:mt-0">
               <a href="#" className="text-gray-400 text-sm hover:text-white transition-colors mr-6">Privacy Policy</a>

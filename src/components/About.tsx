@@ -36,7 +36,7 @@ const About = () => {
           
           {/* Content */}
           <div>
-            <h3 className="text-2xl font-bold text-gray-900 mb-4">Hello, I'm Irfan Ali Shah</h3>
+            <h3 className="text-2xl font-bold text-gray-900 mb-4">Hello, I'm Irfan Hussain Shah</h3>
             <p className="text-gray-700 mb-6 leading-relaxed">
               With over 8 years of experience in graphic design, I've had the privilege of working with clients across various industries, from startups to established brands. My passion lies in creating meaningful designs that not only look beautiful but also solve real problems and connect with audiences.
             </p>
